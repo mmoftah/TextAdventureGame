@@ -1,0 +1,8 @@
+help: Brings up this menu.
+inventory: Shows you all the items you have.
+save: Saves the game.
+map: Shows you the map.
+move right: Moves you right on the map.
+move left: Moves you left on the map.
+move up: Moves you up on the map.
+move down: Moves you down on the map.
